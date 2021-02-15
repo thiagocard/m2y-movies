@@ -1,0 +1,423 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/cKPfiu9IcCW0fMdKdQBXe3PRtTZ.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "The Dark Knight Rises",
+      "poster_path": "/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
+      "title": "The Dark Knight Rises",
+      "vote_average": 7.7,
+      "vote_count": 17362,
+      "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "release_date": "2012-07-16",
+      "id": 49026,
+      "video": false,
+      "adult": false,
+      "popularity": 58.485
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "original_language": "en",
+      "original_title": "Batman Begins",
+      "poster_path": "/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
+      "id": 272,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 15685,
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "release_date": "2005-06-10",
+      "title": "Batman Begins",
+      "popularity": 56.826
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bEiIOflSHB0GGyiPf7dX1XmvlMU.jpg",
+      "genre_ids": [
+        28,
+        16,
+        9648
+      ],
+      "original_language": "en",
+      "original_title": "Batman: Under the Red Hood",
+      "id": 40662,
+      "vote_count": 1033,
+      "title": "Batman: Under the Red Hood",
+      "vote_average": 7.8,
+      "video": false,
+      "overview": "One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
+      "release_date": "2010-07-27",
+      "poster_path": "/dEujs48u3n4cmh15ITtHHDFxSaS.jpg",
+      "popularity": 36.413
+    },
+    {
+      "overview": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+      "id": 382322,
+      "adult": false,
+      "backdrop_path": "/wNyhtxSazhYVSG1So8zgGTqVFVo.jpg",
+      "vote_count": 1241,
+      "genre_ids": [
+        28,
+        16,
+        80,
+        18
+      ],
+      "release_date": "2016-07-24",
+      "original_language": "en",
+      "original_title": "Batman: The Killing Joke",
+      "poster_path": "/nxncAAL1FUKtQWs4uhs5jf1MVut.jpg",
+      "title": "Batman: The Killing Joke",
+      "video": false,
+      "vote_average": 6.6,
+      "popularity": 34.687
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        80,
+        878
+      ],
+      "id": 232842,
+      "original_language": "en",
+      "original_title": "The Flash",
+      "overview": "Barry Allen, crime lab detective, is transformed into the Flash, the fastest man alive, and takes on the Dark Riders, a motorcycle gang terrorizing Central City.",
+      "poster_path": "/yzIBlpyufPoL9ujOOizLktHRFev.jpg",
+      "release_date": "1990-11-04",
+      "title": "The Flash",
+      "video": true,
+      "vote_average": 6.6,
+      "vote_count": 36,
+      "popularity": 29.043
+    },
+    {
+      "backdrop_path": "/z0d353vPcrRIzcDePKOndyz9sWs.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878,
+        18
+      ],
+      "original_language": "en",
+      "original_title": "Green Lantern: Emerald Knights",
+      "poster_path": "/zk3mqtoNzyiiXiotufJ3pwShoGc.jpg",
+      "title": "Green Lantern: Emerald Knights",
+      "vote_average": 6.7,
+      "vote_count": 334,
+      "overview": "As the home planet of the Green Lantern Corps faces a battle with an ancient enemy, Hal Jordan prepares new recruit Arisia for the coming conflict by relating stories of the first Green Lantern and several of Hal's comrades.",
+      "release_date": "2011-04-09",
+      "video": false,
+      "id": 65291,
+      "adult": false,
+      "popularity": 80.417
+    },
+    {
+      "genre_ids": [
+        28,
+        18,
+        878
+      ],
+      "original_language": "en",
+      "original_title": "Logan",
+      "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "video": false,
+      "vote_average": 7.8,
+      "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+      "release_date": "2017-02-28",
+      "vote_count": 15307,
+      "title": "Logan",
+      "adult": false,
+      "backdrop_path": "/yEv8c6i79vk06sZDC3Z9D8HQLVV.jpg",
+      "id": 263115,
+      "popularity": 92.234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8EZ3hY4zhSorcRt4WtoaydsG3Ts.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53,
+        878
+      ],
+      "id": 44912,
+      "original_language": "en",
+      "original_title": "Green Lantern",
+      "overview": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+      "poster_path": "/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+      "release_date": "2011-06-16",
+      "title": "Green Lantern",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 5503,
+      "popularity": 45.648
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8EuGoZLISGxGHuiGvLlldFnGKbp.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        878,
+        14
+      ],
+      "overview": "Determined to ensure Superman’s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+      "original_title": "Zack Snyder's Justice League",
+      "poster_path": "/2jFQUQnh64mnPXKYgT45AOfBAJN.jpg",
+      "id": 791373,
+      "vote_average": 0.0,
+      "video": false,
+      "vote_count": 0,
+      "title": "Zack Snyder's Justice League",
+      "release_date": "2021-03-18",
+      "original_language": "en",
+      "popularity": 45.034
+    },
+    {
+      "genre_ids": [
+        28,
+        12,
+        878,
+        14
+      ],
+      "original_language": "en",
+      "original_title": "The Flash",
+      "poster_path": "/e3aS4VMoMpv7JCUk7XASWlskViO.jpg",
+      "video": false,
+      "vote_average": 0.0,
+      "overview": "The Flash travels back in time to prevent the murder of his mother, an act which disrupts time significantly.",
+      "id": 298618,
+      "vote_count": 0,
+      "title": "The Flash",
+      "adult": false,
+      "backdrop_path": null,
+      "release_date": "2022-11-03",
+      "popularity": 57.799
+    },
+    {
+      "original_language": "en",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "video": false,
+      "vote_average": 5.9,
+      "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+      "release_date": "2016-03-23",
+      "vote_count": 14298,
+      "title": "Batman v Superman: Dawn of Justice",
+      "adult": false,
+      "backdrop_path": "/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg",
+      "id": 209112,
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "popularity": 81.361
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rzdqg8jmltImZiAEHjs9pAo4fee.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        80
+      ],
+      "id": 69735,
+      "original_language": "en",
+      "original_title": "Batman: Year One",
+      "overview": "When Bruce Wayne and James Gordon move to Gotham City, the idealistic Wayne declares war on the city’s criminals, swiftly becoming Batman in the process.",
+      "poster_path": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+      "release_date": "2011-09-27",
+      "title": "Batman: Year One",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 603,
+      "popularity": 17.712
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g8cjJHZFeZQ5GRbFiDp5jXgfOZW.jpg",
+      "genre_ids": [
+        14,
+        27,
+        28,
+        53
+      ],
+      "overview": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
+      "original_title": "Blade II",
+      "poster_path": "/vulF0iqX5z7AW1pdZ572zwsMRMB.jpg",
+      "id": 36586,
+      "vote_average": 6.4,
+      "video": false,
+      "vote_count": 3339,
+      "title": "Blade II",
+      "release_date": "2002-03-22",
+      "original_language": "en",
+      "popularity": 30.225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2idkeA6HJ9F7IxeP6zbU4xBU35y.jpg",
+      "genre_ids": [
+        28,
+        16,
+        14,
+        878,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "Justice League Dark",
+      "id": 408220,
+      "vote_count": 669,
+      "title": "Justice League Dark",
+      "vote_average": 7.3,
+      "video": false,
+      "overview": "Beings with supernatural powers join together to fight against supernatural villains.",
+      "release_date": "2017-01-24",
+      "poster_path": "/mI3Oxpub6vNQ71FIR2GS4d8XXgj.jpg",
+      "popularity": 25.659
+    },
+    {
+      "overview": "The third film based on Marvel's Guardians of the Galaxy.",
+      "id": 447365,
+      "adult": false,
+      "backdrop_path": "/jRSAkKG9QSu6Nc1zvI3ejmgLshe.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        35,
+        53
+      ],
+      "vote_count": 0,
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "poster_path": "/6rsLfXqlZSXa6zLfbofHVhXs8Yr.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "video": false,
+      "vote_average": 0.0,
+      "popularity": 30.782
+    },
+    {
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "video": false,
+      "vote_average": 7.2,
+      "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "release_date": "2014-09-24",
+      "vote_count": 6390,
+      "title": "The Equalizer",
+      "adult": false,
+      "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+      "id": 156022,
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "popularity": 56.815
+    },
+    {
+      "genre_ids": [
+        80,
+        16,
+        9648,
+        28
+      ],
+      "original_language": "en",
+      "original_title": "Batman: Hush",
+      "id": 537056,
+      "video": false,
+      "vote_average": 7.3,
+      "overview": "A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman's crime-fighting career as well as Bruce Wayne's personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.",
+      "release_date": "2019-07-19",
+      "vote_count": 478,
+      "title": "Batman: Hush",
+      "adult": false,
+      "backdrop_path": "/eevJuYAitUe6VwFN29aFwzeyeTr.jpg",
+      "poster_path": "/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+      "popularity": 23.193
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jZfpDaku8fm14GZNc8lr7Li88Rm.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "Plot unknown.",
+      "poster_path": "/yYMG2uT87auGztI9aKVzBB2pHvK.jpg",
+      "release_date": "2022-03-03",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "popularity": 30.758
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "original_language": "en",
+      "original_title": "Spider-Man: Homecoming",
+      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "video": false,
+      "vote_average": 7.4,
+      "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "id": 315635,
+      "vote_count": 15630,
+      "adult": false,
+      "backdrop_path": "/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg",
+      "release_date": "2017-07-05",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        18
+      ],
+      "popularity": 140.371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/va57B6HQg0DHBYvT4Y9R4WPu4fn.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12,
+        53
+      ],
+      "id": 497698,
+      "original_language": "en",
+      "original_title": "Black Widow",
+      "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "poster_path": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "release_date": "2021-04-29",
+      "title": "Black Widow",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "popularity": 72.542
+    }
+  ],
+  "total_pages": 18,
+  "total_results": 347
+}
