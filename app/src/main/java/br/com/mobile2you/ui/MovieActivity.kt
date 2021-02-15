@@ -12,13 +12,6 @@ import com.google.android.material.snackbar.Snackbar
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 private const val THE_DARK_KNIGHT = "155"
-private const val THE_AMAZING_SPIDER_MAN = "1930"
-private const val PIRATES_OF_CARIBBEAN = "285"
-private val RANDOM = listOf(
-    THE_DARK_KNIGHT,
-    THE_AMAZING_SPIDER_MAN,
-    PIRATES_OF_CARIBBEAN
-).random()
 
 class MovieActivity : AppCompatActivity() {
 
@@ -35,7 +28,7 @@ class MovieActivity : AppCompatActivity() {
             viewModel.toggleFavorite()
         }
 
-        viewModel.setMovieId(RANDOM)
+        viewModel.setMovieId(THE_DARK_KNIGHT)
 
         viewModel.movie.observe(this) { movieResult ->
             binding.progressBar.isVisible = false
